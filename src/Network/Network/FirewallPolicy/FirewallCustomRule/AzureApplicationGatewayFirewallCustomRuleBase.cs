@@ -24,7 +24,7 @@ namespace Microsoft.Azure.Commands.Network
 
         [Parameter(
             Mandatory = true,
-            HelpMessage = "The Name of the Rule.")]
+            HelpMessage = "The Name of the Rule. Spaces are not allowed.")]
         [ValidateNotNullOrEmpty]
         public string Name { get; set; }
 
