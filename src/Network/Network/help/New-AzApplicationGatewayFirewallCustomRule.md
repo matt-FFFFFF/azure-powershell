@@ -79,7 +79,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
-The Name of the Rule.
+The Name of the Rule. Spaces are not permitted.
 
 ```yaml
 Type: System.String
