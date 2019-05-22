@@ -20,6 +20,8 @@
 ## Upcoming Release
 * Update ResourceId and InputObject for Nat Gateway
     - Add alias for ResourceId and InputObject
+* Update documentation for New-AzApplicationGatewayFirewallCustomRule
+    - Add statement that spaces are not permitted in the Name parameter
 
 ## Version 1.8.1
 * Add DisableBgpRoutePropagation flag to Effective Route Table output
